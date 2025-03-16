@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://prg2501.github.io/documentation/blog</id>
+    <title>PRG2501 Blog</title>
+    <updated>2025-02-17T15:34:31.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://prg2501.github.io/documentation/blog"/>
+    <subtitle>PRG2501 Blog</subtitle>
+    <icon>https://prg2501.github.io/documentation/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[index]]></title>
+        <id>https://prg2501.github.io/documentation/blog/index</id>
+        <link href="https://prg2501.github.io/documentation/blog/index"/>
+        <updated>2025-02-17T15:34:31.000Z</updated>
+    </entry>
+</feed>
